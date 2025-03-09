@@ -1,1 +1,38 @@
+{
+    "id": 68668045,
+    "name": "Black Blizzard",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Henry",
+    "verification": "https://www.youtube.com/watch?v=gz3gN3G7hSw",
+    "percentToQualify": "59",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JefersonGD",
+            "link": "https://www.youtube.com/watch?v=LoSQq0eCYlM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mariango",
+            "link": "https://www.youtube.com/watch?v=uj7zlt8OST4",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "Zapher",
+            "link": "https://youtu.be/JAEx5nAl6wc",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "Leonel",
+            "link": "https://youtu.be/1Op_zeXZN44",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
 

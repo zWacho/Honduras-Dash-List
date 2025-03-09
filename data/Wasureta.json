@@ -1,1 +1,26 @@
+{
+    "id": 68668045,
+    "name": "Wasureta",
+    "author": "HelpegasuS",
+    "creators": [],
+    "verifier": "Zapher",
+    "verification": "https://www.youtube.com/watch?v=P-T7jTb_oKg",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "yuzu",
+            "link": "https://www.youtube.com/watch?v=iBtIHYieGR0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Oruga",
+            "link": "https://www.youtube.com/watch?v=y7fxq9IQKvE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
 

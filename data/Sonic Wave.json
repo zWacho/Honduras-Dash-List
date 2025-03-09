@@ -1,1 +1,19 @@
+{
+    "id": 45866767,
+    "name": "Sonic Wave",
+    "author": "Cyclic",
+    "creators": [],
+    "verifier": "Zapher",
+    "verification": "https://www.youtube.com/watch?v=hxFc3Fajfrk",
+    "percentToQualify": "65",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Mariango",
+            "link": "https://www.youtube.com/watch?v=TUHezAdLBu8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
 

@@ -1,1 +1,26 @@
+{
+    "id": 51791710,
+    "name": "Auditory Breaker",
+    "author": "Lazerblitz",
+    "creators": [],
+    "verifier": "Zapher",
+    "verification": "https://youtu.be/dsoD0LnswYg",
+    "percentToQualify": "74",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "crostan",
+            "link": "https://youtu.be/VaA7lk6ISJw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Mariango",
+            "link": "https://youtu.be/OXL3zzcPcog",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
+
 
